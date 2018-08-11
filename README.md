@@ -1,7 +1,6 @@
 # MyReads Project
 
-This is the first project for Udacity's React Fundamentals course. Is composed by 4 main components: Book, Bookshelf, Search, TextSearch.
-
+My Reads Project, React Project
 ## TL;DR
 
 To get started developing right away:
