@@ -1,6 +1,6 @@
 # MyReads Project
 
-My Reads Project, React Project
+My Reads Project, React application
 
 ## Getting Started
 Run:
